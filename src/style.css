@@ -1,1 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f9;
+}
 
+h1 {
+  color: #333;
+}
+
+label {
+  font-weight: bold;
+}
+
+#report-container {
+  margin-top: 20px;
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
